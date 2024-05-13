@@ -1,3 +1,6 @@
+// KARLOS MIGUEL R. HIPONIA
+// TIC TAC TOE IS FUN :)
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
